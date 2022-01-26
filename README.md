@@ -1,8 +1,9 @@
-### Hello 👋
-Software Engineer, Cloud Architect at [Binx.io](https://binx.io).
+### Hello! 👋
 
-I am a Software Engineer with full-stack experience ranging from distributed systems to cross-platform web/mobile apps. At the moment, I want to build serverless thingies on Google Cloud and I am interested in Golang, IoT & Data, React and Rust.
+I am a Software Engineer with full-stack experience ranging from distributed systems to cross-platform apps. I am currently interested in building serverless solutions on Google Cloud using Golang, Rust and React and all the bells and whistles of SRE (and Agile!) practices. I give trainings on Cloud Engineering too.
 
-I write of cloud-native development and therewith help other engineers with the blog posts I publish on Binx.io's blog. Check out our talks too, or the podcast I host with Jacco Kulman, or the GCP User Group meetup we organize with Google Cloud!
+Check out my blog posts on the Binx.io’s blog, the podcast I host with my friendly colleague Jacco Kulman and then go join GCP User Group meetup we organize with Google Cloud!
 
-The rest of the time I take pictures and edit them, go for some cycling, get scratched by my cats because that’s how cats are. I am also looking into CG with Blender because photography in NL gets boring fast.
+The rest of the time I go for some cycling, cuddle my cats and enjoy 3D modeling with Blender.
+
+> Are you a software engineer and do you think you could use some personal/career advice? Reach out and I'll be happy have a chat ;)
