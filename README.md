@@ -4,4 +4,4 @@ I have a passion for distributed systems, which I apply to the world of DevOps t
 
 Check out my blog at: https://cavall.in (currently in maintenance).
 
-The rest of my time is spent cycling, cooking on a kamado, playing guitar, stargazing and cleaning litterboxes 🐈.
+The rest of my time is spent cycling, cooking on a kamado, stargazing and cleaning litterboxes 🐈.
