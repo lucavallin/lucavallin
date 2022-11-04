@@ -2,10 +2,12 @@
 
 I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
 
-I have a passion for distributed systems, which I apply to the world of DevOps tooling and cloud infrastructure. So much so that I like to contribute to open source Go- and Rust-based projects in this space when time allows. I used to be into getting Google Cloud certifications and giving trainings and talks about it.
+- I have a passion for distributed systems and (building) DevOps- and Infrastructure-tooling. 
+- I like to contribute to open source Go- and Rust-based projects in this space when time allows. 
+- I used to be into getting Google Cloud certifications and giving trainings and talks about it. 
+- I'm currently learning more about _lower_-level programming, think about container runtimes and networking.
 
 Check out my blog at: https://cavall.in (currently in maintenance).
-
 The rest of my time is spent cycling, cooking on a kamado, playing guitar and Call of Duty, stargazing and cleaning litterboxes 🐈.
 
 
