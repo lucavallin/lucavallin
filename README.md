@@ -1,7 +1,29 @@
-### 👋 Hello! I am a Senior Software Engineer at GitHub (Actions). 
+### Hello! 👋
 
-I have a passion for distributed systems, which I apply to the world of DevOps tooling and cloud infrastructure. So much so that I like to contribute to open source Go- and Rust-based projects in this space when time allows. I used to be into getting Google Cloud certifications and giving trainings and talks about it - check below for a glimpse of the past!
+I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
+
+I have a passion for distributed systems, which I apply to the world of DevOps tooling and cloud infrastructure. So much so that I like to contribute to open source Go- and Rust-based projects in this space when time allows. I used to be into getting Google Cloud certifications and giving trainings and talks about it.
 
 Check out my blog at: https://cavall.in (currently in maintenance).
 
-The rest of my time is spent cycling, cooking on a kamado, stargazing and cleaning litterboxes 🐈.
+The rest of my time is spent cycling, cooking on a kamado, playing guitar and Call of Duty, stargazing and cleaning litterboxes 🐈.
+
+
+### Languages, Frameworks & Tools
+
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
+<br/>
+<br/>
+
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br/>
