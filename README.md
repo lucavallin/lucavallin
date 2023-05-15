@@ -8,7 +8,7 @@ I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/
 - I'm currently learning more about _lower_-level concepts and systems programming, like container runtimes and networking.
 
 Check out my blog at: https://cavall.in.<br/>
-The rest of my time is spent cycling, cooking on a kamado, playing guitar and Call of Duty, stargazing and cleaning litterboxes 🐈.
+The rest of my time is spent cycling, cooking on a kamado, playing piano and Call of Duty, stargazing and cleaning litterboxes 🐈.
 
 
 ### Languages, Frameworks & Tools
