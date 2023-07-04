@@ -4,7 +4,7 @@ I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/
 
 - I have a passion for distributed systems and building developer- and infrastructure- tooling. 
 - I like to work with Go, Rust, Azure, Kubernetes and related technologies.
-- I am interested in systems programming (e.g.container runtimes, networking...) and other (more) low-level topics.
+- I am interested in systems programming (e.g.container runtimes, networking...) and other low-level topics.
 - I used to be into Google Cloud, giving trainings and talks about it, and getting certified. 
 
 Check out my blog at: https://cavall.in.<br/>
