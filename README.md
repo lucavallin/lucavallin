@@ -1,4 +1,4 @@
-### Howdy! 👋
+## Howdy! 👋
 
 I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
 
