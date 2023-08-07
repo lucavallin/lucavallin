@@ -7,8 +7,8 @@ I have a passion for distributed systems, building developer- and infrastructure
 Check out my blog at: https://cavall.in.<br/>
 The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
 
-### Mentoring
-Pssst! I am [mentoring other engineers on MentorCruise](https://mentorcruise.com/mentor/lucacavallin/) and I am available! 
+**Mentoring**: I am available as a mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)!
+<br/><a href="https://mentorcruise.com/mentor/lucacavallin/"><img src="https://mentorcruise.com/mentor/lucacavallin/widget/" style="width: 120px;" alt=""></a>
 
 ### Languages, Frameworks & Tools
 
