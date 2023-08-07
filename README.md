@@ -5,7 +5,7 @@ I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/
 I have a passion for distributed systems, building developer- and infrastructure- tooling, systems programming (e.g.container runtimes, networking...) and other low-level topics. I particularly enjoy working with Go, Rust, Azure, Kubernetes and related technologies. I used to be into Google Cloud, giving trainings and talks about it, and getting certified. 
 
 Check out my blog at: https://cavall.in. I am also available as a mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)!
-The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
+<br />The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
 
 ### Languages, Frameworks & Tools
 
