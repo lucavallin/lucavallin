@@ -10,6 +10,8 @@ The rest of my time is spent cycling, cooking on a kamado, playing piano and vid
 
 ### My toolbox
 
+These are a selection of the languages, tools, and frameworks that I find enjoyable to work with and have experience in, although it's not an exhaustive list.
+
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
