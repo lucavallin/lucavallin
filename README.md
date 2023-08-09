@@ -8,8 +8,6 @@ Check out [my blog](https://cavall.in) for posts and talks, [FirstIssue.dev](htt
 
 The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
 
-<br/>
-
 ### My toolbox
 <sub>_These are a selection of the languages, tools, and frameworks that I find enjoyable to work with and have experience in, although it's not an exhaustive list._</sub>
 
