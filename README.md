@@ -2,11 +2,9 @@
 
 I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
 
-I have a passion for distributed systems, building developer- or infrastructure- tooling, and systems programming. I particularly enjoy working in the _cloud native_ space with tools such as Go, Rust, Kubernetes, Azure and related technologies. Also, I used to be into Google Cloud, giving trainings and talks about it, and getting certified. Sometimes I have fun with creative coding projects involving data and maybe a Raspberry Pi.
+I have a passion for cloud-native distributed systems, building developer- or infrastructure- tooling, and systems programming. I used to be into Google Cloud, giving trainings and talks about it, and getting certified. Sometimes I have fun with creative coding projects involving data and maybe a Raspberry Pi.
 
-Check out [my blog](https://cavall.in) for posts and talks, [FirstIssue.dev](https://firstissue.dev) to find a project for your next open-source contribution, or hire me as your mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)!
-
-The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
+Check out [my blog](https://cavall.in) for posts and talks, [FirstIssue.dev](https://firstissue.dev) to find a project for your next open-source contribution, or hire me as your mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)! The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
 
 ### My toolbox
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
