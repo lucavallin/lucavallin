@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
 
-I am passionate about distributed systems, developer- and infrastructure- tools, and systems programming. I enjoy working with Go, Rust, Kubernetes, Azure, Linux and I share my knowledge through blog posts, podcasts and conference talks. I am currently learning more about AI and when I'm looking for some extra fun, I tinker with creative coding projects that let me play with data.
+I am passionate about distributed systems, developer- and infrastructure- tools, and systems programming. I enjoy working with Go, Rust, Kubernetes, Azure, Linux and I share my knowledge through blog posts, podcasts and talks. I am currently learning more about AI and when I'm looking for some extra fun, I tinker with creative coding projects that let me play with data.
 
 Back in 2015, I made the move from Italy to The Netherlands. Since then, I've been diving into all sorts of projects, wearing different hats along the way. Besides my main skills and interests, I've also jumped into areas like Google Cloud, several databases, REST APIs, React.js, Agile Methodologies, consultancy and giving trainings.
 
