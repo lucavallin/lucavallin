@@ -4,7 +4,7 @@ I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/
 
 I have a passion for cloud-native distributed systems, building developer- or infrastructure- tooling, and systems programming. I used to be into Google Cloud, giving trainings and talks about it, and getting certified. Sometimes I have fun with creative coding projects involving data and maybe a Raspberry Pi.
 
-Check out [my blog](https://cavall.in) for posts and talks, [FirstIssue.dev](https://firstissue.dev) to find a project for your next open-source contribution, or hire me as your mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)! The rest of my time is spent cycling, cooking on a kamado, playing piano and videogames, stargazing and cleaning litterboxes 🐈.
+Check out [my blog](https://cavall.in) for posts and talks, [FirstIssue.dev](https://firstissue.dev) to find a project for your next open-source contribution, or hire me as your mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)! The rest of my time is spent cycling, reading, cooking on a kamado, playing piano and videogames or carving wood, stargazing and cleaning litterboxes 🐈.
 
 ### My toolbox
 > A selection of languages, tools, and frameworks that I find enjoyable to work with.
