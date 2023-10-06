@@ -1,4 +1,4 @@
-## Howdy! 👋
+## Hello! 👋
 
 I am a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions).
 
@@ -7,9 +7,3 @@ I am passionate about distributed systems, developer and infrastructure tools, L
 Back in 2015, I made the move from Italy to The Netherlands. Since then, I've been diving into all sorts of projects, wearing different hats along the way. Besides my main skills and interests, I've also jumped into areas like .NET, TypeScript, REST APIs, several databases, Google Cloud, Data Engineering, consultancy, giving trainings, hosting meetups and podcasts, and more.
 
 Check out [my blog](https://cavall.in) for my articles and talks, [FirstIssue.dev](https://firstissue.dev) to find a project for your next open-source contribution, or hire me as your mentor on [Mentorcruise](https://mentorcruise.com/mentor/lucacavallin/)! The rest of my time is spent cycling, cooking on a kamado, stargazing and cleaning litterboxes 🐈.
-
-### My toolbox
-> A selection of languages and tools that I find enjoyable to work with.
-
-| <img align="center" alt="Golang" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> | <img align="center" alt="Rust" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> | <img align="center" alt="C" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> | <img align="center" alt="TypeScript" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> | <img align="center" alt=".NET" style="width:3rem;" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" /> | <img align="center" alt="Linux" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> | <img align="center" alt="Google Cloud Platform" style="width:3rem;" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" /> | <img align="center" alt="Azure" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" /> | <img align="center" alt="Kubernetes" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> | <img align="center" alt="Terraform" style="width:3rem;" src="https://avatars.githubusercontent.com/u/52939924?v=4" /> | <img align="center" alt="React.js" style="width:3rem;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-| - | - | - | - | - | - | - | - | - | - | - |
