@@ -1,4 +1,5 @@
 ## Hello! 👋
+![cover_lucavallin](https://github.com/lucavallin/lucavallin/assets/14332663/7e430e1d-5fd2-476b-a6e7-10058baf5150)
 
 As a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions), I have a deep-rooted passion for distributed systems, developer and infrastructure tools, and platform engineering. My expertise primarily revolves around Go, Rust, Kubernetes, serverless architectures and the Cloud Native domain in general. I've always had a keen interest in system-level programming, Linux, and networking. At the moment, I am learning more about AI and sometimes I tinker with data and related "creative-coding" projects.
 
