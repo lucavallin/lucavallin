@@ -1,7 +1,7 @@
 ## Hello! 👋
 ![cover_lucavallin](https://github.com/lucavallin/lucavallin/assets/14332663/7e430e1d-5fd2-476b-a6e7-10058baf5150)
 
-As a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions), I have a deep-rooted passion for developer and infrastructure tools, (distributed) systems and networking. My expertise primarily revolves around Go, Kubernetes, serverless architectures and the Cloud Native domain in general. I am currently learning more about Rust and AI.
+As a Senior Software Engineer at [GitHub Actions](https://github.com/features/actions), I am passionate about developer and infrastructure tools, distributed systems, systems- and network-programming. My expertise primarily revolves around Go, Kubernetes, serverless architectures and the Cloud Native domain in general. I am currently learning more about Rust and AI.
 
 Beyond my primary expertise, I've branched out into areas like .NET, React, TypeScript, APIs, data engineering and Google Cloud to name a few. My past also saw me wearing the hats of a consultant, delivering hands-on training sessions, hosting podcasts, and organizing engaging meetups for the tech community. I'm an active contributor to open source and believe in the importance of knowledge sharing, as evidenced by my blog posts and talks. Additionally, I hold the title of Google Developer Expert (GDE).
 
